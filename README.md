@@ -27,3 +27,5 @@ Read the complete Online Payment Fraud Detection project [here]https://github.co
 
 ## Conclusion
 The best performing model is **Random Forest** for identifying fraudulent and non-fraudulent payments.
+
+##code : https://colab.research.google.com/drive/1Dwol-pLgm6px-znynrUBArGPsdUjB2vC?authuser=0#scrollTo=yVQBT063xoV0
